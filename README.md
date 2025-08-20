@@ -42,4 +42,4 @@ It features a glassmorphism design, smooth animations, and full support for mous
 - **Animations** are defined in `@keyframes` blocks in `style.css`.
 
 ## 📜 License
-This project is open-source and free to use.
+This project is made by Jateen Virmani
